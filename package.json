@@ -1,0 +1,17 @@
+{
+    "name": "pathconf",
+    "description": "node binding to POSIX statvfs (file system information)",
+    "version": "0.0.0",
+    "author": "Mark Cavage <mcavage@gmail.com>",
+    "main": "./lib",
+    "scripts": {
+        "test": "node test/pathconf.test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mcavage/node-pathconf.git"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
